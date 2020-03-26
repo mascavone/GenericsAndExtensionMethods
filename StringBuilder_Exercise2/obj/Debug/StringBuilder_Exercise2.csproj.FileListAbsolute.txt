@@ -1,0 +1,7 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\bin\Debug\StringBuilder_Exercise2.exe.config
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\bin\Debug\StringBuilder_Exercise2.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\bin\Debug\StringBuilder_Exercise2.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\obj\Debug\StringBuilder_Exercise2.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\obj\Debug\StringBuilder_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\obj\Debug\StringBuilder_Exercise2.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\StringBuilder_Exercise2\obj\Debug\StringBuilder_Exercise2.pdb

@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\bin\Debug\Search_Exercise1.exe.config
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\bin\Debug\Search_Exercise1.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\bin\Debug\Search_Exercise1.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\MainWindow.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\App.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1_MarkupCompile.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1_MarkupCompile.lref
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\MainWindow.baml
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.g.resources
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.Properties.Resources.resources
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Programming3\301028454(Martins)Lab4\Search_Exercise1\obj\Debug\Search_Exercise1.pdb
